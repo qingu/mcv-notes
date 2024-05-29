@@ -13,8 +13,8 @@ MPS系统分为四个部分，分别为grib数据解码模块ungrib，地形及�
 # export LAPACK_ROOT=/path/to/install/lapack
 # export NETCDF=/path/to/install/netcdf   
 
-$ tar xzvf MCV_PUBLIC_v1.0.tar.gz
-$ cd MCV_PUBLIC_v1.0/MPS
+$ tar xzvf MCV_PUBLIC-20230807.tar.gz
+$ cd MCV_PUBLIC/MPS
 $ mkdir build
 $ cd build
 $ FC=ifort CC=icc cmake ..

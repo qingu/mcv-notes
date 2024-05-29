@@ -34,7 +34,7 @@ MCV模式运行所需的参考廓线、物理静态数据等。
 在中国气象局新一代高性能计算机上可以直接使用公共静态数据，存放目录是`/g5/jiangqg/share/FIX_DATA`
 （后面以$FIX_DATA指代静态数据目录）。
 
-- MCV_PUBLIC-v1.0.tar.gz
+- MCV_PUBLIC-20230807.tar.gz
 
 MCV源代码包。
 
